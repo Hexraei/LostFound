@@ -1,0 +1,8 @@
+{
+  "reports": [
+    {"id": "demo-lost-01", "direction": "lost", "category": "umbrella", "place": "Library reception", "date": "2026-09-24", "public_description": "folding umbrella"},
+    {"id": "demo-found-02", "direction": "found", "category": "umbrella", "place": "Library reception", "date": "2026-09-25", "public_description": "folding umbrella"},
+    {"id": "demo-found-03", "direction": "found", "category": "laptop", "place": "Library reception", "date": "2026-09-25"},
+    {"id": "demo-lost-04", "direction": "lost", "category": "umbrella", "place": "North gate", "date": "2026-09-25"}
+  ]
+}
